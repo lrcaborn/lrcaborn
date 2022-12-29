@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lrcaborn
+- 👋 Hi, I’m Rick Caborn (@lrcaborn)
 - 👀 I’m interested in music and generating it programmatically.
 - 🌱 I’m currently learning to focus on the goal, not the tools.
 - 💞️ I’m looking to collaborate on nothing. I'm only a team player when I'm paid to be one.
